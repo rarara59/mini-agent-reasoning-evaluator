@@ -1,0 +1,7 @@
+Step 1: I need to find three numbers greater than 5 but less than 10.
+Step 2: The integers in this range are: 6, 7, 8, and 9.
+Step 3: I will pick three of these: 6, 7, and 8.
+Step 4: Verifying: 6 > 5 and 6 < 10. Correct.
+Step 5: Verifying: 7 > 5 and 7 < 10. Correct.
+Step 6: Verifying: 8 > 5 and 8 < 10. Correct.
+Final Answer: [6, 7, 8]

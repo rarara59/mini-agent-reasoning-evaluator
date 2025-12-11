@@ -1,0 +1,6 @@
+{
+  "id": "word_problem_001",
+  "prompt": "Alice has 12 apples. She gives 4 apples to Bob and then buys 7 more apples. How many apples does Alice have now? Explain your reasoning step-by-step.",
+  "expected_answer": 15,
+  "constraints": []
+}

@@ -1,0 +1,5 @@
+Step 1: Alice starts with 12 apples.
+Step 2: Alice gives 4 apples to Bob. So she has 12 - 4 = 8 apples remaining.
+Step 3: Alice then buys 7 more apples. So she has 8 + 7 = 15 apples.
+Step 4: Therefore, Alice has 15 apples now.
+Final Answer: 15

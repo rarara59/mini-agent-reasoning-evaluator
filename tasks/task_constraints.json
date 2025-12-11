@@ -1,0 +1,6 @@
+{
+  "id": "constraints_001",
+  "prompt": "List three numbers that are greater than 5 but less than 10. Explain your reasoning step-by-step.",
+  "expected_answer": [6, 7, 8],
+  "constraints": ["not", "negative", "decimal"]
+}

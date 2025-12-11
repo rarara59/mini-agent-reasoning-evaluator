@@ -1,0 +1,6 @@
+{
+  "id": "sort_numbers_001",
+  "prompt": "Sort the following list of numbers in ascending order: [9, 3, 1, 4]. Explain your reasoning step-by-step.",
+  "expected_answer": [1, 3, 4, 9],
+  "constraints": []
+}

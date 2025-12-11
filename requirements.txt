@@ -1,0 +1,5 @@
+# No external dependencies required for core functionality
+# The project uses only Python standard library
+
+# Optional dev dependencies:
+# pytest>=7.0.0  # for running tests
