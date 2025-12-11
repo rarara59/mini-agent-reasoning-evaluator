@@ -79,6 +79,8 @@ Sample Errors:
 Log written to: logs/sort_numbers_001_20251211T210633Z.json
 ```
 
+Note: the relevance rule is intentionally naive to illustrate how simple heuristics can misclassify valid reasoning.
+
 ---
 
 ## What this project demonstrates
