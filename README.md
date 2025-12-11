@@ -1,5 +1,8 @@
 # Mini-Agent Reasoning Evaluator
 
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![Status](https://img.shields.io/badge/status-prototype-yellow)
+
 This project is a small prototype that evaluates how an agent *reasons* through a task — not just whether it arrives at the right answer.
 
 The central idea is borrowed from legal reasoning:
@@ -51,6 +54,30 @@ The output includes:
 - a correctness score
 - an aggregated explanation of step-level issues
 - a JSON file with the full evaluation record
+
+### Example Output
+
+```
+==================================================
+Task: sort_numbers_001
+==================================================
+
+Scores:
+  Reasoning Score:   40.0
+  Correctness Score: 100.0
+  Overall Score:     58.0
+
+Final Answer Correct: True
+
+Status: some_invalid
+
+Invalid Steps: [2, 4, 5]
+Sample Errors:
+  - Possibly irrelevant to the task
+
+==================================================
+Log written to: logs/sort_numbers_001_20251211T210633Z.json
+```
 
 ---
 
